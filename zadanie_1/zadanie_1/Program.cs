@@ -8,6 +8,8 @@ namespace zadanie_1
         {
             double a, b;
             Console.WriteLine("To jest program który oblicza pole prostokąta");
+            Console.WriteLine("--------------");
+
             Console.Write("Podaj bok a: ");
             a = double.Parse(Console.ReadLine());
 
