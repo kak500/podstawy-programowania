@@ -1,0 +1,6 @@
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
