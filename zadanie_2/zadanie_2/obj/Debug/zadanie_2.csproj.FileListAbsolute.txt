@@ -1,0 +1,7 @@
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\bin\Debug\zadanie_2.exe.config
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\bin\Debug\zadanie_2.exe
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\bin\Debug\zadanie_2.pdb
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\obj\Debug\zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\obj\Debug\zadanie_2.exe
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\obj\Debug\zadanie_2.pdb
+C:\Users\Student\Downloads\podstawy-programowania-master\podstawy-programowania-master\zadanie_2\zadanie_2\obj\Debug\zadanie_2.csprojAssemblyReference.cache
