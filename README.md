@@ -1,2 +1,2 @@
 # podstawy-programowania
-Repozytorium z kodami z zajęć
+<p>Repozytorium z kodami z zajęć</p>
