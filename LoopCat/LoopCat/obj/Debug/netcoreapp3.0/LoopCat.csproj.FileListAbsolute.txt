@@ -1,0 +1,11 @@
+C:\Documents\LoopCat\LoopCat\bin\Debug\netcoreapp3.0\LoopCat.exe
+C:\Documents\LoopCat\LoopCat\bin\Debug\netcoreapp3.0\LoopCat.deps.json
+C:\Documents\LoopCat\LoopCat\bin\Debug\netcoreapp3.0\LoopCat.runtimeconfig.json
+C:\Documents\LoopCat\LoopCat\bin\Debug\netcoreapp3.0\LoopCat.runtimeconfig.dev.json
+C:\Documents\LoopCat\LoopCat\bin\Debug\netcoreapp3.0\LoopCat.dll
+C:\Documents\LoopCat\LoopCat\bin\Debug\netcoreapp3.0\LoopCat.pdb
+C:\Documents\LoopCat\LoopCat\obj\Debug\netcoreapp3.0\LoopCat.csprojAssemblyReference.cache
+C:\Documents\LoopCat\LoopCat\obj\Debug\netcoreapp3.0\LoopCat.AssemblyInfoInputs.cache
+C:\Documents\LoopCat\LoopCat\obj\Debug\netcoreapp3.0\LoopCat.AssemblyInfo.cs
+C:\Documents\LoopCat\LoopCat\obj\Debug\netcoreapp3.0\LoopCat.dll
+C:\Documents\LoopCat\LoopCat\obj\Debug\netcoreapp3.0\LoopCat.pdb
