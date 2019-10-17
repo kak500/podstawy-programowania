@@ -1,0 +1,11 @@
+C:\Documents\Tablice\Tablice\obj\Debug\netcoreapp3.0\Tablice.csprojAssemblyReference.cache
+C:\Documents\Tablice\Tablice\obj\Debug\netcoreapp3.0\Tablice.AssemblyInfoInputs.cache
+C:\Documents\Tablice\Tablice\obj\Debug\netcoreapp3.0\Tablice.AssemblyInfo.cs
+C:\Documents\Tablice\Tablice\bin\Debug\netcoreapp3.0\Tablice.exe
+C:\Documents\Tablice\Tablice\bin\Debug\netcoreapp3.0\Tablice.deps.json
+C:\Documents\Tablice\Tablice\bin\Debug\netcoreapp3.0\Tablice.runtimeconfig.json
+C:\Documents\Tablice\Tablice\bin\Debug\netcoreapp3.0\Tablice.runtimeconfig.dev.json
+C:\Documents\Tablice\Tablice\bin\Debug\netcoreapp3.0\Tablice.dll
+C:\Documents\Tablice\Tablice\bin\Debug\netcoreapp3.0\Tablice.pdb
+C:\Documents\Tablice\Tablice\obj\Debug\netcoreapp3.0\Tablice.dll
+C:\Documents\Tablice\Tablice\obj\Debug\netcoreapp3.0\Tablice.pdb
