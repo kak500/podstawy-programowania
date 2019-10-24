@@ -1,0 +1,11 @@
+C:\docs\MultiverseTwo\MultiverseTwo\bin\Debug\netcoreapp3.0\MultiverseTwo.exe
+C:\docs\MultiverseTwo\MultiverseTwo\bin\Debug\netcoreapp3.0\MultiverseTwo.deps.json
+C:\docs\MultiverseTwo\MultiverseTwo\bin\Debug\netcoreapp3.0\MultiverseTwo.runtimeconfig.json
+C:\docs\MultiverseTwo\MultiverseTwo\bin\Debug\netcoreapp3.0\MultiverseTwo.runtimeconfig.dev.json
+C:\docs\MultiverseTwo\MultiverseTwo\bin\Debug\netcoreapp3.0\MultiverseTwo.dll
+C:\docs\MultiverseTwo\MultiverseTwo\bin\Debug\netcoreapp3.0\MultiverseTwo.pdb
+C:\docs\MultiverseTwo\MultiverseTwo\obj\Debug\netcoreapp3.0\MultiverseTwo.AssemblyInfoInputs.cache
+C:\docs\MultiverseTwo\MultiverseTwo\obj\Debug\netcoreapp3.0\MultiverseTwo.AssemblyInfo.cs
+C:\docs\MultiverseTwo\MultiverseTwo\obj\Debug\netcoreapp3.0\MultiverseTwo.dll
+C:\docs\MultiverseTwo\MultiverseTwo\obj\Debug\netcoreapp3.0\MultiverseTwo.pdb
+C:\docs\MultiverseTwo\MultiverseTwo\obj\Debug\netcoreapp3.0\MultiverseTwo.csprojAssemblyReference.cache
