@@ -1,0 +1,6 @@
+C:\documents\Exceptions2\Exceptions2\bin\Debug\Exceptions2.exe.config
+C:\documents\Exceptions2\Exceptions2\bin\Debug\Exceptions2.exe
+C:\documents\Exceptions2\Exceptions2\bin\Debug\Exceptions2.pdb
+C:\documents\Exceptions2\Exceptions2\obj\Debug\Exceptions2.exe
+C:\documents\Exceptions2\Exceptions2\obj\Debug\Exceptions2.pdb
+C:\documents\Exceptions2\Exceptions2\obj\Debug\Exceptions2.csprojAssemblyReference.cache

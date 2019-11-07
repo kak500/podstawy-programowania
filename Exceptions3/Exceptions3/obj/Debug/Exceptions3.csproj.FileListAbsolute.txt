@@ -1,0 +1,5 @@
+C:\documents\Exceptions3\Exceptions3\bin\Debug\Exceptions3.exe.config
+C:\documents\Exceptions3\Exceptions3\bin\Debug\Exceptions3.exe
+C:\documents\Exceptions3\Exceptions3\bin\Debug\Exceptions3.pdb
+C:\documents\Exceptions3\Exceptions3\obj\Debug\Exceptions3.exe
+C:\documents\Exceptions3\Exceptions3\obj\Debug\Exceptions3.pdb
