@@ -1,0 +1,6 @@
+E:\Programowanko WSB\Ćwiczenia\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe.config
+E:\Programowanko WSB\Ćwiczenia\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe
+E:\Programowanko WSB\Ćwiczenia\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.pdb
+E:\Programowanko WSB\Ćwiczenia\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.csproj.CoreCompileInputs.cache
+E:\Programowanko WSB\Ćwiczenia\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.exe
+E:\Programowanko WSB\Ćwiczenia\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.pdb
