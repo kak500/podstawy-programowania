@@ -1,0 +1,6 @@
+C:\Users\Student\Downloads\Nowy folder\Methods1\Methods1\bin\Debug\Methods1.exe.config
+C:\Users\Student\Downloads\Nowy folder\Methods1\Methods1\bin\Debug\Methods1.exe
+C:\Users\Student\Downloads\Nowy folder\Methods1\Methods1\bin\Debug\Methods1.pdb
+C:\Users\Student\Downloads\Nowy folder\Methods1\Methods1\obj\Debug\Methods1.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Nowy folder\Methods1\Methods1\obj\Debug\Methods1.exe
+C:\Users\Student\Downloads\Nowy folder\Methods1\Methods1\obj\Debug\Methods1.pdb

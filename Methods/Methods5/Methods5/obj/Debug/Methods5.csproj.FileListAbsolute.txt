@@ -1,0 +1,5 @@
+C:\Users\Student\Downloads\Nowy folder\Methods5\Methods5\bin\Debug\Methods5.exe.config
+C:\Users\Student\Downloads\Nowy folder\Methods5\Methods5\bin\Debug\Methods5.exe
+C:\Users\Student\Downloads\Nowy folder\Methods5\Methods5\bin\Debug\Methods5.pdb
+C:\Users\Student\Downloads\Nowy folder\Methods5\Methods5\obj\Debug\Methods5.exe
+C:\Users\Student\Downloads\Nowy folder\Methods5\Methods5\obj\Debug\Methods5.pdb

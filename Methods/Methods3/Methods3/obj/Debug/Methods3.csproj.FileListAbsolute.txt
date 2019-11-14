@@ -1,0 +1,6 @@
+C:\Users\Student\Downloads\Nowy folder\Methods3\Methods3\bin\Debug\Methods3.exe.config
+C:\Users\Student\Downloads\Nowy folder\Methods3\Methods3\bin\Debug\Methods3.exe
+C:\Users\Student\Downloads\Nowy folder\Methods3\Methods3\bin\Debug\Methods3.pdb
+C:\Users\Student\Downloads\Nowy folder\Methods3\Methods3\obj\Debug\Methods3.exe
+C:\Users\Student\Downloads\Nowy folder\Methods3\Methods3\obj\Debug\Methods3.pdb
+C:\Users\Student\Downloads\Nowy folder\Methods3\Methods3\obj\Debug\Methods3.csprojAssemblyReference.cache
