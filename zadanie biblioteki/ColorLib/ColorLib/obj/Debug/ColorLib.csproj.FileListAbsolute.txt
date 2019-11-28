@@ -1,0 +1,5 @@
+C:\docs\zadanie biblioteki\ColorLib\ColorLib\bin\Debug\ColorLib.dll
+C:\docs\zadanie biblioteki\ColorLib\ColorLib\bin\Debug\ColorLib.pdb
+C:\docs\zadanie biblioteki\ColorLib\ColorLib\obj\Debug\ColorLib.csprojAssemblyReference.cache
+C:\docs\zadanie biblioteki\ColorLib\ColorLib\obj\Debug\ColorLib.dll
+C:\docs\zadanie biblioteki\ColorLib\ColorLib\obj\Debug\ColorLib.pdb

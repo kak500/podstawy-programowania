@@ -1,0 +1,9 @@
+C:\docs\zadanie biblioteki\Main\Main\bin\Debug\Main.exe.config
+C:\docs\zadanie biblioteki\Main\Main\bin\Debug\Main.exe
+C:\docs\zadanie biblioteki\Main\Main\bin\Debug\Main.pdb
+C:\docs\zadanie biblioteki\Main\Main\bin\Debug\ColorLib.dll
+C:\docs\zadanie biblioteki\Main\Main\bin\Debug\ColorLib.pdb
+C:\docs\zadanie biblioteki\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\docs\zadanie biblioteki\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\docs\zadanie biblioteki\Main\Main\obj\Debug\Main.exe
+C:\docs\zadanie biblioteki\Main\Main\obj\Debug\Main.pdb
