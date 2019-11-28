@@ -1,0 +1,5 @@
+C:\docs\wskazniki\wskaznik4\wskaznik4\bin\Debug\wskaznik4.exe.config
+C:\docs\wskazniki\wskaznik4\wskaznik4\bin\Debug\wskaznik4.exe
+C:\docs\wskazniki\wskaznik4\wskaznik4\bin\Debug\wskaznik4.pdb
+C:\docs\wskazniki\wskaznik4\wskaznik4\obj\Debug\wskaznik4.exe
+C:\docs\wskazniki\wskaznik4\wskaznik4\obj\Debug\wskaznik4.pdb

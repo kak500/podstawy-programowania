@@ -1,0 +1,4 @@
+C:\docs\libraries\biblioteka1_dll\biblioteka1_dll\bin\Debug\biblioteka1_dll.dll
+C:\docs\libraries\biblioteka1_dll\biblioteka1_dll\bin\Debug\biblioteka1_dll.pdb
+C:\docs\libraries\biblioteka1_dll\biblioteka1_dll\obj\Debug\biblioteka1_dll.dll
+C:\docs\libraries\biblioteka1_dll\biblioteka1_dll\obj\Debug\biblioteka1_dll.pdb

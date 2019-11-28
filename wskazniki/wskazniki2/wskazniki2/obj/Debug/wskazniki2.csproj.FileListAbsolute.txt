@@ -1,0 +1,5 @@
+C:\docs\wskazniki\wskazniki2\wskazniki2\bin\Debug\wskazniki2.exe.config
+C:\docs\wskazniki\wskazniki2\wskazniki2\bin\Debug\wskazniki2.exe
+C:\docs\wskazniki\wskazniki2\wskazniki2\bin\Debug\wskazniki2.pdb
+C:\docs\wskazniki\wskazniki2\wskazniki2\obj\Debug\wskazniki2.exe
+C:\docs\wskazniki\wskazniki2\wskazniki2\obj\Debug\wskazniki2.pdb

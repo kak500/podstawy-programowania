@@ -1,0 +1,6 @@
+C:\docs\structs\struct1\struct1\bin\Debug\struct1.exe.config
+C:\docs\structs\struct1\struct1\bin\Debug\struct1.exe
+C:\docs\structs\struct1\struct1\bin\Debug\struct1.pdb
+C:\docs\structs\struct1\struct1\obj\Debug\struct1.csprojAssemblyReference.cache
+C:\docs\structs\struct1\struct1\obj\Debug\struct1.exe
+C:\docs\structs\struct1\struct1\obj\Debug\struct1.pdb

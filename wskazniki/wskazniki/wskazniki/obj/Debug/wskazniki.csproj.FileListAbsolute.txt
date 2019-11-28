@@ -1,0 +1,6 @@
+C:\docs\wskazniki\wskazniki\wskazniki\obj\Debug\wskazniki.csprojAssemblyReference.cache
+C:\docs\wskazniki\wskazniki\wskazniki\bin\Debug\wskazniki.exe.config
+C:\docs\wskazniki\wskazniki\wskazniki\bin\Debug\wskazniki.exe
+C:\docs\wskazniki\wskazniki\wskazniki\bin\Debug\wskazniki.pdb
+C:\docs\wskazniki\wskazniki\wskazniki\obj\Debug\wskazniki.exe
+C:\docs\wskazniki\wskazniki\wskazniki\obj\Debug\wskazniki.pdb
