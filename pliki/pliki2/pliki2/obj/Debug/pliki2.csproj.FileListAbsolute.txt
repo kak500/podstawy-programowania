@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\pliki2\pliki2\bin\Debug\pliki2.exe.config
+C:\Users\Student\source\repos\pliki2\pliki2\bin\Debug\pliki2.exe
+C:\Users\Student\source\repos\pliki2\pliki2\bin\Debug\pliki2.pdb
+C:\Users\Student\source\repos\pliki2\pliki2\obj\Debug\pliki2.exe
+C:\Users\Student\source\repos\pliki2\pliki2\obj\Debug\pliki2.pdb
+C:\Users\Student\source\repos\pliki2\pliki2\obj\Debug\pliki2.csprojAssemblyReference.cache

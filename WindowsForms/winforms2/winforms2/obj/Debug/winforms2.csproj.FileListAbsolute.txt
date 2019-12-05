@@ -1,0 +1,8 @@
+C:\docs\WindowsForms\winforms2\winforms2\bin\Debug\winforms2.exe.config
+C:\docs\WindowsForms\winforms2\winforms2\bin\Debug\winforms2.exe
+C:\docs\WindowsForms\winforms2\winforms2\bin\Debug\winforms2.pdb
+C:\docs\WindowsForms\winforms2\winforms2\obj\Debug\winforms2.Form1.resources
+C:\docs\WindowsForms\winforms2\winforms2\obj\Debug\winforms2.Properties.Resources.resources
+C:\docs\WindowsForms\winforms2\winforms2\obj\Debug\winforms2.csproj.GenerateResource.cache
+C:\docs\WindowsForms\winforms2\winforms2\obj\Debug\winforms2.exe
+C:\docs\WindowsForms\winforms2\winforms2\obj\Debug\winforms2.pdb

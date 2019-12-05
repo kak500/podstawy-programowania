@@ -1,0 +1,5 @@
+C:\Users\Student\source\repos\pliki3\pliki3\bin\Debug\pliki3.exe.config
+C:\Users\Student\source\repos\pliki3\pliki3\bin\Debug\pliki3.exe
+C:\Users\Student\source\repos\pliki3\pliki3\bin\Debug\pliki3.pdb
+C:\Users\Student\source\repos\pliki3\pliki3\obj\Debug\pliki3.exe
+C:\Users\Student\source\repos\pliki3\pliki3\obj\Debug\pliki3.pdb

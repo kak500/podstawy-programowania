@@ -1,0 +1,6 @@
+C:\docs\pliki\pliki1\pliki1\bin\Debug\pliki1.exe.config
+C:\docs\pliki\pliki1\pliki1\bin\Debug\pliki1.exe
+C:\docs\pliki\pliki1\pliki1\bin\Debug\pliki1.pdb
+C:\docs\pliki\pliki1\pliki1\obj\Debug\pliki1.csprojAssemblyReference.cache
+C:\docs\pliki\pliki1\pliki1\obj\Debug\pliki1.exe
+C:\docs\pliki\pliki1\pliki1\obj\Debug\pliki1.pdb
